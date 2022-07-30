@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/shorten
+Content-Type: application/json
+X-API-Key: 12345678
+
+{
+  "url": "https://www.google.com/98u123u8123hu12398h123"
+}
+
+###
+
+GET http://localhost:8080/4C92

@@ -1,0 +1,3 @@
+FROM postgres:14.4
+ENV POSTGRES_USER shorten
+ENV POSTGRES_PASSWORD dev_postgres
