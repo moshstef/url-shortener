@@ -1,4 +1,4 @@
 package com.shorten.exception;
 
-public class QuotaReachedException extends Exception {
+public class QuotaReachedException extends RuntimeException {
 }
